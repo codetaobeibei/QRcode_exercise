@@ -2,8 +2,8 @@
 # coding: utf-8
 
 '''
-input: filename
-output: approximate coordinate and QR code
+input: image or frame
+output: approximate coordinates and QR code clipping
 '''
 
 import cv2
