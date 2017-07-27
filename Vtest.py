@@ -1,6 +1,5 @@
 from qrdetector import qrdetector
 import numpy as np
-import matplotlib.pyplot as plt
 from pyzbar.pyzbar import decode
 import logging; logging.basicConfig(level=logging.INFO)
 import cv2
